@@ -29,8 +29,8 @@ Train the model using the training dataset by performing forward pass, computing
 Evaluate the trained model on test images and verify the classification accuracy for new unseen images.
 
 ## PROGRAM
-### Name: SARAVANAN SHAM PRAKASH
-### Register Number: 212224230254
+### Name: Rabin R
+### Register Number: 212224230213
 ```
 import torch
 import torch.nn as nn
@@ -213,7 +213,7 @@ predict_image(model, image_index=9905, dataset=test_dataset)
 ### OUTPUT
 
 ## Training Loss per Epoch
-<img width="548" height="198" alt="image" src="https://github.com/user-attachments/assets/335d34f3-7cfe-45bd-831e-8b7e86ea4b0a" />
+<img width="392" height="149" alt="image" src="https://github.com/user-attachments/assets/62581bb9-c756-423e-9bdb-33002f75458d" />
 
 ## Confusion Matrix
 <img width="1119" height="500" alt="image" src="https://github.com/user-attachments/assets/c6f5b11d-1083-47c9-b492-1571d382ec47" />
